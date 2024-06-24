@@ -145,7 +145,7 @@ img{
     bottom: 2rem;
     left: 0;
     z-index: var(--z-fixed);
-    /* transition: box-shadow .4s backgrond-color .4s; */
+ 
 }
 .nav{
     height: calc(var(--header-height) + .5rem);
@@ -236,11 +236,6 @@ img{
 }
 .home_b{
     position: relative;
-    /* width: 200px;
-    height: 290px; */
-    /* background-color: var(--body-color);
-    border:2px solid var(--text-color-light); */
-    /* border-radius: 700%; */
     justify-self: center;
     place-items: center;
 
@@ -248,7 +243,6 @@ img{
 .home_profile{
     width: 170px;
     height: 260px;
-    /* background: ; */
     border-radius: 70%;
     overflow: hidden;
     display: flex;
