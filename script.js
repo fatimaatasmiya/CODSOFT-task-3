@@ -36,12 +36,6 @@ let swiperProjects = new Swiper(".projects_container", {
     mousewheel: true,
     keyboard:true,
 
-    // breakpoints: {
-    //     1200: {
-    //         slidePerView: 2,
-    //         spaceBetween: -56,
-    //     },
-    // },
   });
   const contactForm = document.getElementById('contact-form'),
         contactName = document.getElementById('contact-name'),
